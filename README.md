@@ -21,4 +21,4 @@ A Streamlit-based Merchandising Dashboard that automates Open-to-Buy (OTB) plann
 * **Plotly:** Interactive Visualizations
 
 ---
-*Built by Shilpanshu | [LinkedIn Profile Link] | [Portfolio Site Link]*
+*Built by Shilpanshu | [www.linkedin.com/in/shilpanshu-09232b161] | [https://www.shilpanshu.site]*
